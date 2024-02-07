@@ -1,0 +1,9 @@
+{
+  "sandboxId": "flying-clea-97584a2b",
+  "chainId": 14499,
+  "rpcUrl": "https://rpc.buildbear.io/flying-clea-97584a2b",
+  "faucetUrl": "https://faucet.buildbear.io/flying-clea-97584a2b",
+  "explorerUrl": "https://explorer.buildbear.io/flying-clea-97584a2b",
+  "verificationUrl": "https://api.buildbear.io/v1/api/verify/etherscan/flying-clea-97584a2b",
+  "forkingChainId": 1
+}
